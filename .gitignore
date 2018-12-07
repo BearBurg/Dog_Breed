@@ -1,3 +1,11 @@
+.ipynb_checkpoints/
+data_process/
+dataset/
+dataset_large/
+dataset_small/
+dogImages/
 .DS_Store
 *.docx
+*.npz
+*.tar
 *.pdf
